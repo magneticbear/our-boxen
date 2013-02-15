@@ -1,4 +1,4 @@
-# Our Boxen
+# MBS Boxen (very early work in progress)
 
 This is a template Boxen project designed for your organization to fork and
 modify appropriately.
